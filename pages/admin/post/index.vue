@@ -111,7 +111,7 @@ export default {
   head() {
     return {
       title:
-        "Posts - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap",
+        "Posts - TimurRimba.web.id - Belajar Koding Bahasa Indonesia Terlengkap",
     };
   },
 
