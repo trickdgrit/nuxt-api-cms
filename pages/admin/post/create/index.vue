@@ -176,7 +176,7 @@ export default {
         removePlugins: ["Title"],
         simpleUpload: {
           uploadUrl:
-            "http://cms-api-timur.kopiitamku.web.id/api/web/posts/storeImage",
+            "http://timurcms.kopiitamku.web.id/api/web/posts/storeImage",
         },
       },
     };
