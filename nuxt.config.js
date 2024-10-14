@@ -3,6 +3,9 @@ export default {
   target: "server",
   //SSR
   ssr: true,
+
+  //STORE
+  store: true,
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: "nuxt-cms",
