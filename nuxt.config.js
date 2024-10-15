@@ -116,7 +116,7 @@ export default {
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
     // Workaround to avoid enforcing hard-coded localhost:3000: https://github.com/nuxt-community/axios-module/issues/308
-    baseURL: "https://cms-api-timur.kopiitamku.web.id",
+    baseURL: "https://timur-cms.kopiitamku.web.id",
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
