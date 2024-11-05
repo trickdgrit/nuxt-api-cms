@@ -3,7 +3,10 @@
     <b-container class="mt-3">
       <b-carousel
         id="carousel-fade"
-        style="text-shadow: 0px 0px 2px #000"
+        style="
+          background-color: #f5f5f5;
+          box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+        "
         fade
         indicators
         img-width="1024"
